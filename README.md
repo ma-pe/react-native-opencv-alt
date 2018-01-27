@@ -1,3 +1,3 @@
 # General
 
-I'm started adding React-Native bindings for OpenCV.
+I have started adding React-Native bindings for OpenCV.
